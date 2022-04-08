@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+Form{
+  border-radius: 8px;
+  background: #fcf3f3;
+}
+a{
+  margin-left: 100px;
+  cursor: pointer;
+}
